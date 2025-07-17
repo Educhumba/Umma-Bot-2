@@ -2,8 +2,6 @@
 
 venv/
 
-*.pdf
-
 *.csv
 
 *.xlsx
